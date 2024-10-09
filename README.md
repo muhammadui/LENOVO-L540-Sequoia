@@ -1,6 +1,6 @@
 # Lenovo L540 MacOS Sequoia EFI
 
-![My Wallpaper Screenshot](./path-to-your-screenshot.png) <!-- Replace with the actual path to your screenshot -->
+![My Wallpaper Screenshot](./SCR-20241008-mthj.jpeg) <!-- Replace with the actual path to your screenshot -->
 
 ### Computer Specs 🖥️
 | Component         | Details                          |
